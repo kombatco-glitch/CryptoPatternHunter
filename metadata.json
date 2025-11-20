@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Pattern Hunter",
+  "description": "A specialized technical analysis tool that allows users to visually select a candlestick pattern on a chart and instantly find historical matches using mathematical similarity, powered by Gemini for semantic pattern analysis.",
+  "requestFramePermissions": []
+}
